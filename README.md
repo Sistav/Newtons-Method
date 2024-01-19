@@ -7,7 +7,7 @@ This project uses Newton's Method for finding the square root of a number.  See 
 
 ## Description
 
-The program is written in C and calculates the square root of a given number to a specified level of accuracy (epsilon). The method used is an iterative approach and includes checks to prevent infinite loops and ensure numerical stability.
+The program is written in C and calculates the square root of a given number to a specified level of accuracy (epsilon). The method used is an iterative approach and includes checks to prevent infinite loops and ensure stability.
 
 ## Usage
 
