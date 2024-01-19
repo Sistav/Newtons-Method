@@ -1,4 +1,4 @@
-# Newtons-Method
+# Newton's Method
 An implementation of Newton's Method in C
 
 # Description
